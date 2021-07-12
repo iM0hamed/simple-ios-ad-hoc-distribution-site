@@ -1,7 +1,7 @@
 'use strict'
 
 const config = {
-  APP_NAME: 'Accountability',
-  WEB_URL: 'https://your-site.herokuapp.com'
+  APP_NAME: 'ISB APP',
+  WEB_URL: 'https://isbdemo.herokuapp.com'
 }
 module.exports = config
